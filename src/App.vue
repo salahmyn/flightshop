@@ -5,7 +5,7 @@
         <span>
             <v-icon size="30">flight_takeoff</v-icon>
         </span>
-        <span class="font-weight-light">Hello Flights</span>
+        <span class="font-weight-light">Flights Calendar</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn

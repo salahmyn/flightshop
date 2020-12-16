@@ -1,5 +1,5 @@
-# flights
-
+# Flights
+Demo app to get flights prices from SkyScanner
 ## Project setup
 ```
 yarn install
